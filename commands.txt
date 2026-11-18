@@ -1,0 +1,3 @@
+mpremote connect COM9 fs cp pico_servo.py :main.py
+mpremote connect COM9 reset
+python hand_tracker.py
